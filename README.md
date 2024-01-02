@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CEMOMRT
-- 👀 I’m interested in Computer Programing
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Service API
 - 📫 How to reach me cemomrt41@gmail.com
 
